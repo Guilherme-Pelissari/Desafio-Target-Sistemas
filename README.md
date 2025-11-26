@@ -40,9 +40,9 @@ Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instala
 
 ### Passo a passo
 
-1. **Clone o repositório:**
+### Clone o repositório:
    ```bash
-   git clone
+   git clone https://github.com/Guilherme-Pelissari/Desafio-Target-Sistemas.git
    ```
 
 ### Acesse a pasta do projeto:
